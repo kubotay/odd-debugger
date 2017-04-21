@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/core.jar" />
+    <libelement value="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/gluegen-rt.jar" />
+    <libelement value="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/jogl-all.jar" />
+    <varelement var="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/core.jar" kind="link:" value="core.jar" />
+    <varelement var="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/gluegen-rt.jar" kind="link:" value="gluegen-rt.jar" />
+    <varelement var="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/jogl-all.jar" kind="link:" value="jogl-all.jar" />
+    <src_description expected_position="2">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="2" />
+    </src_description>
+  </component>
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="Manually" manifestLocation="META-INF/MANIFEST.MF" jarfileLocation="odd.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="" bundleVersion="1.0.0" ignoreFilePattern="" useProjectDefaultManifestFileLocation="false" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties />
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="ECLIPSE" level="application" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="core.jar">
+        <CLASSES>
+          <root url="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/core.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="gluegen-rt.jar">
+        <CLASSES>
+          <root url="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/gluegen-rt.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jogl-all.jar">
+        <CLASSES>
+          <root url="file://$PARENT-5-PROJECT_LOC$/Applications/Processing.app/Contents/Java/core/library/jogl-all.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="core" level="project" />
+  </component>
+</module>

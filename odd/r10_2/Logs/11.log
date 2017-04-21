@@ -1,0 +1,9 @@
+Exception in thread "main" java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+	at org.apache.poi.xssf.usermodel.XSSFCell.typeMismatch(XSSFCell.java:1050)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getRichStringCellValue(XSSFCell.java:404)
+	at org.apache.poi.xssf.usermodel.XSSFCell.getStringCellValue(XSSFCell.java:356)
+	at r10_2.XLSXData.setScore(XLSXData.java:27)
+	at r10_2.Cleaner.cleanXLSX(Cleaner.java:47)
+	at r10_2.XLSXFile.cleanUp(XLSXFile.java:37)
+	at r10_2.DataPrinter.organize(DataPrinter.java:20)
+	at r10_2.R10_2.main(R10_2.java:7)

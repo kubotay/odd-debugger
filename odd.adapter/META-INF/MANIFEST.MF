@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Adapter
+Bundle-SymbolicName: odd.adapter
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.eclipse.jdt.debug
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: org.eclipse.jdt.internal.debug.core.model

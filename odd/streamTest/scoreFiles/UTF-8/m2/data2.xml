@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <students>
+        <element>
+            <score>75</score>
+            <id>99JK202</id>
+        </element>
+        <element>
+            <score>22</score>
+            <id>99JK203</id>
+        </element>
+    </students>
+</data>
